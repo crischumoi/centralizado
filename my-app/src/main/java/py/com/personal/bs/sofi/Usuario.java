@@ -8,4 +8,8 @@ public class Usuario
 {
     String nombre;
 	String password;
+	
+	public String getNombre(){
+		return this.nombre;
+	}
 }
