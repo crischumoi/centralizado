@@ -8,5 +8,5 @@ public class Book
 {
 	String name;
 	Integer year;
-
+	String autor;
 }
